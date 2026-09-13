@@ -1,0 +1,24 @@
+# C/C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+*.ilk
+
+# Build directories
+build/
+dist/
+cmake-build-*/
+
+# Editor and local judge metadata
+.vs/
+.vscode/
+.idea/
+.cph/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
